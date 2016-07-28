@@ -34,9 +34,10 @@ It's totally inspired by a brilliant idea from Daniel Espeset (Etsy): [http://ta
 
 
 
-### Be careful, the proxy is not working with HTTPS files. It doesn't even tunnel them.
+#### Be careful, the proxy is not working with HTTPS files.
 
-On an HTTPS webpage, you'll see nothing. On an HTTP page, you won't be able to see the JS files loaded over HTTPS.
+On an HTTPS page, the proxy can't work. 
+On an HTTP page, you won't be able to see the JS files loaded over HTTPS.
 
 
 
@@ -90,4 +91,6 @@ You will see vertical lines:
 
 
 ## Author
-Gaël Métais. I'm a webperf freelance based in Paris. If you understand French, you can visit [my website](http://www.gaelmetais.com).
+Gaël Métais. I'm a webperf freelance. Follow me on Twitter [@gaelmetais](https://twitter.com/gaelmetais), I tweet about Web Performances, Front-end and new versions of YellowLabTools!
+
+I can also help your company about Web Performances, visit [my website](https://www.gaelmetais.com).
